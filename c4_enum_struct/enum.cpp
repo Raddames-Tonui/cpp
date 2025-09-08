@@ -62,8 +62,6 @@ int main()
     userPermissions &= ~Write;
     cout << "Write removed, permissions value: " << userPermissions << endl;
 
-
-
     return 0;
 }
 
